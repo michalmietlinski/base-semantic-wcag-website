@@ -39,15 +39,15 @@ Additional variants(after project completion):
 
 
 ## Sources:
-http://dostepnestrony.pl/artykul/wcag-2-0-w-skrocie/
-http://wcag20.widzialni.org/wytyczna-1-1-tekst-alternatywny,m,mg,165,169
-https://www.w3.org/TR/html5/
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://codepen.io/mi-lee/post/an-overview-of-html5-semantics
-http://webdevchecklist.com
-https://www.unleashedit.com.au/web-development/best-web-design-development-practices-2017/
-https://econsultancy.com/blog/68600-10-sensible-web-design-trends-for-2017
-https://www.webbyawards.com/winners/2017/websites/website-features-and-design/best-use-of-animation-or-motion-graphics/
+* http://dostepnestrony.pl/artykul/wcag-2-0-w-skrocie/
+* http://wcag20.widzialni.org/wytyczna-1-1-tekst-alternatywny,m,mg,165,169
+* https://www.w3.org/TR/html5/
+* https://www.w3schools.com/html/html5_semantic_elements.asp
+* https://codepen.io/mi-lee/post/an-overview-of-html5-semantics
+* http://webdevchecklist.com
+* https://www.unleashedit.com.au/web-development/best-web-design-development-practices-2017/
+* https://econsultancy.com/blog/68600-10-sensible-web-design-trends-for-2017
+* https://www.webbyawards.com/winners/2017/websites/website-features-and-design/best-use-of-animation-or-motion-graphics/
 
 
 
