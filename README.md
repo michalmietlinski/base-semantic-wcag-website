@@ -20,6 +20,12 @@ Even if one clinic uses it as a base for its website it will be considered a win
 * Full comments for code;
 * Easy acces for non technical editors;
 
+## Tests:
+Testing of behaviour - access will be done using:
+* All modern browsers - IE11+, Safari, Opera, Firefox, Chrome, Chromium;
+* At least 4 mobile devices - IOS and Android;
+* Tablets and mobile phones in both vertical and horizontal mode;
+* Screen reader;
 
 ## Versions:
 Basic version will be availlable as:
