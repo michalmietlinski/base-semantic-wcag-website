@@ -6,7 +6,8 @@ sourcemaps = require('gulp-sourcemaps'),
 prefixer = require('gulp-autoprefixer'),
 browserSync = require('browser-sync').create(),
 watch = require('gulp-watch'),
-htmlbeautify = require('gulp-html-beautify');
+htmlbeautify = require('gulp-html-beautify'),
+include = require('gulp-html-tag-include');
 
 
     
@@ -28,12 +29,17 @@ gulp.task('watch', function(){
     });
 
 });
-
+gulp.task('html-include', function() {
+    return gulp.src('./source/index.html')
+        .pipe(include())
+        .pipe(gulp.dest('./build/'));
+});
 gulp.task('html', function() {
   var options = {
     indentSize: 2
   };
   gulp.src('./src/html/*.html')
+    .pipe(include())
     .pipe(htmlbeautify(options))
     .pipe(gulp.dest('./dist/'))
   .pipe(browserSync.stream());
