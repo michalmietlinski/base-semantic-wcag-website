@@ -16,7 +16,7 @@ var path= {
     dist : 'dist',
     src : 'src/sass/*.scss',
     srchtml : 'src/**/*.html',
-    watch:'src/sass/*.scss',
+    watch:'src/sass/**/*.scss',
     watchhtml: 'src/**/*.html'
 
 }
